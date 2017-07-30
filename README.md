@@ -1,5 +1,5 @@
 # Augmented-Windows-Command-Line-Utilities
-Exposes regular tasks as batch files which are added to the system path to augment the existing list of commands that windows CLI recognises
+Exposes regular tasks as batch files which augment the existing list of commands that windows CLI recognises
 - **sudo:** Runs a cmd with Administrative privileges 
 - **touch:** Creates a new file
 - **gedit:** Opens the file in notepad++ for editing
