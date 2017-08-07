@@ -4,6 +4,11 @@ Exposes regular tasks as batch files which are added to the system path to augme
 - **touch:** Creates a new file
 - **gedit:** Opens the file in notepad++ for editing
 - **sublime:** Opens the sublime editor in the CWD
+	For best experience add this to **Preferences.sublime-settings**:
+	{
+		"hot_exit": false,
+		"remember_open_files": false
+	}
 
 All these commands have limited functionality as of now. It would be great to expand the functionality of these commands as it brings the comfort of a smooth workflow to the devloper and the power of CLI.
 
