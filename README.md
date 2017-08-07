@@ -4,6 +4,7 @@ Exposes regular tasks as batch files which augment the existing list of commands
 - **touch:** Creates a new file
 - **gedit:** Opens the file in notepad++ for editing
 - **sublime:** Opens the sublime editor in the CWD
+	
 	For best experience add this to **Preferences.sublime-settings**:
 	{
 		"hot_exit": false,
